@@ -7,7 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-- Nothing yet
+### Fixes
+
+- Proper handling of trailing bytes in avc1 (VisualSampleEntryBox). Issue 444
 
 ## [0.50.0] - 2025-09-05
 
